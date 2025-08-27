@@ -1,1 +1,1 @@
-# SPTech_Database
+# SPTech Exercises
